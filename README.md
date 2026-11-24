@@ -1,11 +1,12 @@
 # Esports Team Room
+# ITAS1-2BSD-SERENEO-MALUNES
 
 A Java TCP LAN group-chat application for esports teammates. It includes concurrent client handling, unique nicknames, chat commands, map voting, and a team readiness check.
 
 ## Requirements
 
-* JDK 17 or newer (JDK 21 recommended)
-* IntelliJ IDEA
+* JDK 26
+* Apache NetBeans
 * Two computers on the same Wi-Fi/LAN for the LAN demonstration
 
 ## Project structure
