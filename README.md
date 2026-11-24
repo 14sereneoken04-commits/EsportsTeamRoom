@@ -103,7 +103,7 @@ public static void main(String\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 * This starter version does not persist chat history or votes after server shutdown.
 * Add instructor-approved visual design, screenshots, and a dated contribution log before submission.
 
-## SCREENSHOTS
+## SCREENSHOTS for "LOGIN, CHATROOM, MAPVOTING, READINESS AND ERROR!"
 ![Login screen](screenshots/LOGIN.jpg)
 ![Chat room with three clients](screenshots/CHATROOM.jpg)
 ![Map voting](screenshots/MAPVOTING.jpg)
