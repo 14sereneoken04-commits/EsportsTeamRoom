@@ -12,7 +12,7 @@ A Java TCP LAN group-chat application for esports teammates. It includes concurr
 ## Project structure
 
 ```text
-ITAS1-2B-SD-SERENEO-MALUNES/
+TeamEsportRoom
 ├── src/
 │   ├── GUI/
 │   │   ├── LoginFrame.java
