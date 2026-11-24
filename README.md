@@ -102,3 +102,10 @@ public static void main(String\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 * Readiness is reset when a player changes nickname.
 * This starter version does not persist chat history or votes after server shutdown.
 * Add instructor-approved visual design, screenshots, and a dated contribution log before submission.
+
+## SCREENSHOTS
+![Login screen](screenshots/LOGIN.jpg)
+![Chat room with three clients](screenshots/CHATROOM.jpg)
+![Map voting](screenshots/MAPVOTING.jpg)
+![Ready check](screenshots/READINESS.jpg)
+![Error message](screenshots/ERROR%21.jpg)
