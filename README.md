@@ -34,14 +34,14 @@ TeamEsportRoom
 ```
 ## Run the server
 
-1. Open the project in IntelliJ IDEA.
+1. Open the project in Apache Netbeans.
 2. Run `server.ChatServer` by creating a temporary run configuration, or use the `main` method below.
 3. The server listens on TCP port `5000`.
 
 For convenience, add this main method to `ChatServer` if you want to run it directly:
 
 ```java
-public static void main(String\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[] args) {
+public static void main(String [] args) {
     new ChatServer(5000).start();
 }
 ```
