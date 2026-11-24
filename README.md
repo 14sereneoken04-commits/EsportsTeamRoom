@@ -110,3 +110,6 @@ public static void main(String\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 ![Map voting](screenshots/MAPVOTING.jpg)
 ![Ready check](screenshots/READINESS.jpg)
 ![Error message](screenshots/ERROR%21.jpg)
+
+## ASSISTANCE
+** CHATGPT AND CLAUDE AI FOR ASSISTANCE
