@@ -106,9 +106,7 @@ public static void main(String [] args) {
 
 ## SCREENSHOTS for "LOGIN, CHATROOM, MAPVOTING, READINESS AND ERROR!"
 ![Login screen](screenshots/LOGIN.jpg)
-![Chat room with three clients](screenshots/CHATROOM.jpg)
-![Map voting](screenshots/MAPVOTING.jpg)
-![Ready check](screenshots/READINESS.jpg)
+<img width="1917" height="1077" alt="CHATROOM, MAPVOTING AND READINESS" src="https://github.com/user-attachments/assets/bcf834ad-5827-484e-b27c-f826eece736e" />
 ![Error message](screenshots/ERROR%21.jpg)
 
 ## ASSISTANCE
