@@ -48,7 +48,7 @@ public static void main(String [] args) {
 
 ## Run the client
 
-1. Keep the server running.
+1. Keep the server running. 
 2. Run `Main`.
 3. Enter a nickname, server IP, and port `5000`.
 4. On the server computer, use `127.0.0.1`.
